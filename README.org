@@ -1,0 +1,10 @@
+* common-doc-plump
+
+Convert Plump documents to CommonDoc ones, and vice versa
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/CommonDoc/common-doc-plump.git   |
+| commit  | 2d9dc9a  |
+| systems | common-doc-plump |
+|---------+-------------------------------------------|
+
